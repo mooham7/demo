@@ -1,6 +1,6 @@
 # exipurereview2022 theme
 
-#Exipure Only $39/Bottle Limited Time Offer
+# Exipure Only $39/Bottle Limited Time Offer
 
 👉 No Need For a Restrictive Diet
 👉 Non GMO

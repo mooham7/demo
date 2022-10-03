@@ -9,7 +9,7 @@
     "exipure review",
     "exipure reviews"
   ],
-  "repository": "https://github.com/mooham7/demo",
+  "repository": "https://github.com/mooham7/demo.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
