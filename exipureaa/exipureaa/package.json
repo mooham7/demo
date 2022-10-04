@@ -1,0 +1,15 @@
+{
+  "name": "exipureaa",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Exipure review",
+  "keywords": [
+    "exipure",
+    "exipure.com"
+  ],
+  "repository": "https://github.com/mooham7/aa.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
